@@ -18,6 +18,7 @@ Ejemplo de Uso.
 
 Menú Principal
 
-![Menú Principal](/TP-INTEGRADOR---PROGRAMACION-II/Menú Principal.png)
+![Menú Principal]([/TP-INTEGRADOR---PROGRAMACION-II](https://github.com/rnebreda/TP-INTEGRADOR---PROGRAMACION-II/Menú Principal.png)
+
 
 
