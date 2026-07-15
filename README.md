@@ -33,5 +33,5 @@ Menú Modificar Categorías
 
 Para una descripción completa del uso del Sistema ver el siguiente archivo pdf.
 
-[Manual PDF](Docs/Sistema de Pedidos (Fast Food) - Uso del Sistema.pdf)
+[Manual de Uso del Sistema PDF](Docs/UsoDelSistema.pdf)
 
