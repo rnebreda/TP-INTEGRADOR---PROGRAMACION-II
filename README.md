@@ -18,7 +18,7 @@ Ejemplo de Uso.
 
 Menú Principal
 
-![Menú Principal](/Menú Principal.png)
+![Menú Principal](Menú Principal.png)
 
 
 
