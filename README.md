@@ -14,8 +14,10 @@ Objetivos de Aprendizaje
 Instalación y ejecución
 1. Clonar el repositorio: git clone https://github.com/rnebreda/TP-INTEGRADOR---PROGRAMACION-II.git
 
-Ejemplo de Uso
+Ejemplo de Uso.
+
 Menú Principal
-![Menú Principal](MenuPrincipal.png)
+
+![Menú Principal](//MenuPrincipal.png)
 
 
