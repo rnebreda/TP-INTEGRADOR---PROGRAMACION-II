@@ -20,10 +20,10 @@ Menú Principal
 ![Menú Principal](docs/MenuPrincipal.png)
 
 Menú Categorías
-![Menú Principal](docs/MenuCategorias.png)
+![Menú Categorías](docs/MenuCategorías.png)
 
 Menú Modificar Categorías
-![Menú Principal](docs/ModificarCategorias.png)
+![Menú Modificar Categorías](docs/ModificarCategorías.png)
 
 
 
