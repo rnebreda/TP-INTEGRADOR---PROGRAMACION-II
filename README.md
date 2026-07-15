@@ -17,8 +17,11 @@ Instalación y ejecución
 Ejemplo de Uso.
 
 Menú Principal
+Al ingresar al Sistema se ofrece un menú de opciones para acceder a los distintos módulos del programa.
 
 ![Principal](Docs/MenuPrincipal.png)
+
+Luego cada Módulo gestiona la Entidad correspondiente. A continuació se muestra el ejemplo del módulo de Gestión de Categorías:
 
 Menú Categorías
 
@@ -28,5 +31,7 @@ Menú Modificar Categorías
 
 ![ModificarCategorias](Docs/ModificarCategoria.png)
 
+Para una descripción completa del uso del Sistema ver el siguiente archivo pdf.
 
+[Manual PDF](Docs/Sistema de Pedidos (Fast Food) - Uso del Sistema.pdf)
 
