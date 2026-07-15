@@ -21,7 +21,7 @@ Al ingresar al Sistema se ofrece un menú de opciones para acceder a los distint
 
 ![Principal](Docs/MenuPrincipal.png)
 
-Luego cada Módulo gestiona la Entidad correspondiente. A continuació se muestra el ejemplo del módulo de Gestión de Categorías:
+Luego cada Módulo gestiona la Entidad correspondiente. A continuación se muestra el ejemplo del módulo de Gestión de Categorías:
 
 Menú Categorías
 
