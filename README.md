@@ -16,6 +16,6 @@ Instalación y ejecución
 
 Ejemplo de Uso
 Menú Principal
-![Menú Principal](docs/MenuPrincipal.png)
+![Menú Principal](/MenuPrincipal.png)
 
 
