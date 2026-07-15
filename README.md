@@ -33,5 +33,5 @@ Menú Modificar Categorías
 
 Para una descripción completa del uso del Sistema ver el siguiente archivo pdf.
 
-[Manual de Uso del Sistema PDF](Docs/UsoDelSistema.pdf)
+[Manual de Uso del Sistema](Docs/UsoDelSistema.pdf)
 
