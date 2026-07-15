@@ -18,6 +18,6 @@ Ejemplo de Uso.
 
 Menú Principal
 
-![Menú Principal](TP-INTEGRADOR---PROGRAMACION-II/Menú Principal.png)
+![Menú Principal](/TP-INTEGRADOR---PROGRAMACION-II/Menú Principal.png)
 
 
