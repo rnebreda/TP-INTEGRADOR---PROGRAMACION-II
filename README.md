@@ -23,7 +23,7 @@ Menú Categorías
 ![Categorias](Docs/MenuCategorias.png)
 
 Menú Modificar Categorías
-![ModificarCategorias](Docs/ModificarCategorias.png)
+![ModificarCategorias](Docs/ModificarCategoria.png)
 
 
 
