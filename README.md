@@ -17,13 +17,13 @@ Instalación y ejecución
 Ejemplo de Uso.
 
 Menú Principal
-![Menú Principal](docs/MenuPrincipal.png)
+![Principal](Docs/MenuPrincipal.png)
 
 Menú Categorías
-![Menú Categorías](docs/MenuCategorías.png)
+![Categorias](Docs/MenuCategorias.png)
 
 Menú Modificar Categorías
-![Menú Modificar Categorías](docs/ModificarCategorías.png)
+![ModificarCategorias](Docs/ModificarCategorias.png)
 
 
 
