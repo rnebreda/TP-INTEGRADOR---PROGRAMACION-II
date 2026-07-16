@@ -39,12 +39,19 @@ Luego cada Módulo gestiona la Entidad correspondiente. A continuación se muest
 
 ![ModificarCategorias](Docs/ModificarCategoria.png)
 
-# Manual de Uso del Sistema (completo)
+## Manual de Uso del Sistema (completo)
 Para una descripción completa del uso del Sistema ver el siguiente archivo pdf.
 
 [Manual de Uso del Sistema](Docs/UsoDelSistema.pdf)
 
-Video explicativo:
+## Video explicativo en YouTube:
+
+https://youtu.be/C1jrEngVuNs
+
+## TP Integrador (Documento Académico
+
+[TP Integrador](Docs/TP_Integrador.pdf)
+
 
 
 
